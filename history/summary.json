@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/www.ure.es",
     "slug": "ure-es",
     "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 1659,
-    "timeDay": 1699,
-    "timeWeek": 1659,
-    "timeMonth": 1659,
-    "timeYear": 1659,
-    "dailyMinutesDown": {
-      "2022-02-09": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1699,
+    "timeDay": 1887,
+    "timeWeek": 1699,
+    "timeMonth": 1699,
+    "timeYear": 1699,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Tienda",
@@ -25,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/tienda.ure.es",
     "slug": "tienda",
     "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 1167,
-    "timeDay": 1160,
-    "timeWeek": 1167,
-    "timeMonth": 1167,
-    "timeYear": 1167,
-    "dailyMinutesDown": {
-      "2022-02-09": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1196,
+    "timeDay": 1320,
+    "timeWeek": 1196,
+    "timeMonth": 1196,
+    "timeYear": 1196,
+    "dailyMinutesDown": {}
   },
   {
     "name": "WebCluster",
@@ -45,19 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/webcluster.ure.es",
     "slug": "web-cluster",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 1173,
-    "timeDay": 1266,
-    "timeWeek": 1173,
-    "timeMonth": 1173,
-    "timeYear": 1173,
-    "dailyMinutesDown": {
-      "2022-02-09": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1234,
+    "timeDay": 1486,
+    "timeWeek": 1234,
+    "timeMonth": 1234,
+    "timeYear": 1234,
+    "dailyMinutesDown": {}
   },
   {
     "name": "GDURE",
@@ -65,19 +59,17 @@
     "icon": "https://favicons.githubusercontent.com/diplomas.ure.es",
     "slug": "gdure",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 2062,
-    "timeDay": 2025,
-    "timeWeek": 2062,
-    "timeMonth": 2062,
-    "timeYear": 2062,
-    "dailyMinutesDown": {
-      "2022-02-09": 6
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2093,
+    "timeDay": 2196,
+    "timeWeek": 2093,
+    "timeMonth": 2093,
+    "timeYear": 2093,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Concursos",
@@ -85,19 +77,17 @@
     "icon": "https://favicons.githubusercontent.com/concursos.ure.es",
     "slug": "concursos",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 2706,
-    "timeDay": 2814,
-    "timeWeek": 2706,
-    "timeMonth": 2706,
-    "timeYear": 2706,
-    "dailyMinutesDown": {
-      "2022-02-09": 6
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2688,
+    "timeDay": 2578,
+    "timeWeek": 2688,
+    "timeMonth": 2688,
+    "timeYear": 2688,
+    "dailyMinutesDown": {}
   },
   {
     "name": "QDURE",
@@ -105,19 +95,17 @@
     "icon": "https://favicons.githubusercontent.com/qsl.ure.es",
     "slug": "qdure",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 4341,
-    "timeDay": 4599,
-    "timeWeek": 4341,
-    "timeMonth": 4341,
-    "timeYear": 4341,
-    "dailyMinutesDown": {
-      "2022-02-09": 5
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 4385,
+    "timeDay": 4651,
+    "timeWeek": 4385,
+    "timeMonth": 4385,
+    "timeYear": 4385,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Formación",
@@ -125,18 +113,16 @@
     "icon": "https://favicons.githubusercontent.com/formacion.ure.es",
     "slug": "formacion",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 1063,
-    "timeDay": 612,
-    "timeWeek": 1063,
-    "timeMonth": 1063,
-    "timeYear": 1063,
-    "dailyMinutesDown": {
-      "2022-02-09": 5
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1036,
+    "timeDay": 722,
+    "timeWeek": 1036,
+    "timeMonth": 1036,
+    "timeYear": 1036,
+    "dailyMinutesDown": {}
   }
 ]
