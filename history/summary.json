@@ -58,9 +58,9 @@
     "url": "https://diplomas.ure.es",
     "icon": "https://favicons.githubusercontent.com/diplomas.ure.es",
     "slug": "gdure",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +69,9 @@
     "timeWeek": 2093,
     "timeMonth": 2093,
     "timeYear": 2093,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-10": 0
+    }
   },
   {
     "name": "Concursos",
