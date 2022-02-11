@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 1714,
     "timeDay": 1846,
-    "timeWeek": 1714,
+    "timeWeek": 1700,
     "timeMonth": 1714,
     "timeYear": 1714,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 1218,
     "timeDay": 1414,
-    "timeWeek": 1218,
+    "timeWeek": 1232,
     "timeMonth": 1218,
     "timeYear": 1218,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 1279,
     "timeDay": 1692,
-    "timeWeek": 1279,
+    "timeWeek": 1301,
     "timeMonth": 1279,
     "timeYear": 1279,
     "dailyMinutesDown": {}
@@ -58,18 +58,20 @@
     "url": "https://diplomas.ure.es",
     "icon": "https://favicons.githubusercontent.com/diplomas.ure.es",
     "slug": "gdure",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2123,
-    "timeDay": 2259,
-    "timeWeek": 2123,
+    "timeDay": 2026,
+    "timeWeek": 2142,
     "timeMonth": 2123,
     "timeYear": 2123,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-11": 0
+    }
   },
   {
     "name": "Concursos",
@@ -84,7 +86,7 @@
     "uptimeYear": "100.00%",
     "time": 2710,
     "timeDay": 2900,
-    "timeWeek": 2710,
+    "timeWeek": 2778,
     "timeMonth": 2710,
     "timeYear": 2710,
     "dailyMinutesDown": {}
@@ -102,7 +104,7 @@
     "uptimeYear": "100.00%",
     "time": 4424,
     "timeDay": 4772,
-    "timeWeek": 4424,
+    "timeWeek": 4441,
     "timeMonth": 4424,
     "timeYear": 4424,
     "dailyMinutesDown": {}
@@ -120,7 +122,7 @@
     "uptimeYear": "100.00%",
     "time": 1013,
     "timeDay": 808,
-    "timeWeek": 1013,
+    "timeWeek": 1056,
     "timeMonth": 1013,
     "timeYear": 1013,
     "dailyMinutesDown": {}
