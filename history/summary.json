@@ -92,19 +92,19 @@
     "url": "https://concursos.ure.es",
     "icon": "https://favicons.githubusercontent.com/concursos.ure.es",
     "slug": "concursos",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2863,
-    "timeDay": 2114,
-    "timeWeek": 2943,
-    "timeMonth": 2923,
-    "timeYear": 2863,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "97.50%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.95%",
+    "time": 2859,
+    "timeDay": 2287,
+    "timeWeek": 2909,
+    "timeMonth": 2914,
+    "timeYear": 2859,
     "dailyMinutesDown": {
-      "2022-03-29": 0
+      "2022-03-29": 36
     }
   },
   {
