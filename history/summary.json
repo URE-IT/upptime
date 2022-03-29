@@ -128,19 +128,19 @@
     "url": "https://formacion.ure.es",
     "icon": "https://favicons.githubusercontent.com/formacion.ure.es",
     "slug": "formacion",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 844,
-    "timeDay": 797,
-    "timeWeek": 847,
-    "timeMonth": 805,
-    "timeYear": 844,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 845,
+    "timeDay": 840,
+    "timeWeek": 856,
+    "timeMonth": 809,
+    "timeYear": 845,
     "dailyMinutesDown": {
-      "2022-03-29": 0
+      "2022-03-29": 9
     }
   }
 ]
