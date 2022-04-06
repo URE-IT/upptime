@@ -22,28 +22,30 @@
     "url": "https://tienda.ure.es",
     "icon": "https://favicons.githubusercontent.com/tienda.ure.es",
     "slug": "tienda",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1193,
     "timeDay": 814,
     "timeWeek": 1081,
     "timeMonth": 1147,
     "timeYear": 1193,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-06": 3
+    }
   },
   {
     "name": "WebCluster",
     "url": "https://webcluster.ure.es",
     "icon": "https://favicons.githubusercontent.com/webcluster.ure.es",
     "slug": "web-cluster",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1509,
@@ -51,7 +53,9 @@
     "timeWeek": 1308,
     "timeMonth": 1558,
     "timeYear": 1509,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-06": 2
+    }
   },
   {
     "name": "GDURE",
@@ -92,10 +96,10 @@
     "url": "https://concursos.ure.es",
     "icon": "https://favicons.githubusercontent.com/concursos.ure.es",
     "slug": "concursos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.96%",
     "time": 2867,
@@ -104,6 +108,7 @@
     "timeMonth": 2951,
     "timeYear": 2867,
     "dailyMinutesDown": {
+      "2022-04-06": 1,
       "2022-03-29": 36
     }
   },
