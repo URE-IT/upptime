@@ -22,19 +22,19 @@
     "url": "https://tienda.ure.es",
     "icon": "https://favicons.githubusercontent.com/tienda.ure.es",
     "slug": "tienda",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1199,
-    "timeDay": 1312,
-    "timeWeek": 1168,
-    "timeMonth": 1148,
-    "timeYear": 1199,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 1197,
+    "timeDay": 1230,
+    "timeWeek": 1158,
+    "timeMonth": 1146,
+    "timeYear": 1197,
     "dailyMinutesDown": {
-      "2022-04-11": 1
+      "2022-04-11": 15
     }
   },
   {
