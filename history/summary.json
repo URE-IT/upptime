@@ -22,19 +22,19 @@
     "url": "https://tienda.ure.es",
     "icon": "https://favicons.githubusercontent.com/tienda.ure.es",
     "slug": "tienda",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 1200,
-    "timeDay": 0,
-    "timeWeek": 1150,
-    "timeMonth": 1199,
-    "timeYear": 1200,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 1213,
+    "timeDay": 2278,
+    "timeWeek": 1311,
+    "timeMonth": 1231,
+    "timeYear": 1213,
     "dailyMinutesDown": {
-      "2022-04-20": 2
+      "2022-04-20": 12
     }
   },
   {
@@ -137,19 +137,19 @@
     "url": "https://formacion.ure.es",
     "icon": "https://favicons.githubusercontent.com/formacion.ure.es",
     "slug": "formacion",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 808,
-    "timeDay": 0,
-    "timeWeek": 622,
-    "timeMonth": 755,
-    "timeYear": 808,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 809,
+    "timeDay": 871,
+    "timeWeek": 657,
+    "timeMonth": 759,
+    "timeYear": 809,
     "dailyMinutesDown": {
-      "2022-04-20": 0
+      "2022-04-20": 10
     }
   }
 ]
