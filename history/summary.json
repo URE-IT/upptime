@@ -4,10 +4,10 @@
     "url": "https://www.ure.es",
     "icon": "https://favicons.githubusercontent.com/www.ure.es",
     "slug": "ure-es",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1946,
@@ -15,16 +15,18 @@
     "timeWeek": 1920,
     "timeMonth": 1910,
     "timeYear": 1946,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-21": 1
+    }
   },
   {
     "name": "Tienda",
     "url": "https://tienda.ure.es",
     "icon": "https://favicons.githubusercontent.com/tienda.ure.es",
     "slug": "tienda",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 1311,
     "timeMonth": 1231,
     "timeYear": 1213,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-21": 1
+    }
   },
   {
     "name": "WebCluster",
