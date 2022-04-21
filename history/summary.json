@@ -23,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/tienda.ure.es",
     "slug": "tienda",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1213,
     "timeDay": 2278,
     "timeWeek": 1311,
     "timeMonth": 1231,
     "timeYear": 1213,
-    "dailyMinutesDown": {
-      "2022-04-20": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "WebCluster",
@@ -138,18 +136,16 @@
     "icon": "https://favicons.githubusercontent.com/formacion.ure.es",
     "slug": "formacion",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 809,
     "timeDay": 871,
     "timeWeek": 657,
     "timeMonth": 759,
     "timeYear": 809,
-    "dailyMinutesDown": {
-      "2022-04-20": 10
-    }
+    "dailyMinutesDown": {}
   }
 ]
