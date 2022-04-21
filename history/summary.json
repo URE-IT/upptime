@@ -4,19 +4,19 @@
     "url": "https://www.ure.es",
     "icon": "https://favicons.githubusercontent.com/www.ure.es",
     "slug": "ure-es",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1946,
-    "timeDay": 2650,
-    "timeWeek": 1920,
-    "timeMonth": 1910,
-    "timeYear": 1946,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 1945,
+    "timeDay": 2246,
+    "timeWeek": 1910,
+    "timeMonth": 1908,
+    "timeYear": 1945,
     "dailyMinutesDown": {
-      "2022-04-21": 1
+      "2022-04-21": 9
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://tienda.ure.es",
     "icon": "https://favicons.githubusercontent.com/tienda.ure.es",
     "slug": "tienda",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1213,
-    "timeDay": 2278,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 1215,
+    "timeDay": 1795,
     "timeWeek": 1311,
-    "timeMonth": 1231,
-    "timeYear": 1213,
+    "timeMonth": 1233,
+    "timeYear": 1215,
     "dailyMinutesDown": {
-      "2022-04-21": 1
+      "2022-04-21": 8
     }
   },
   {
