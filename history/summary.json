@@ -4,10 +4,10 @@
     "url": "https://www.ure.es",
     "icon": "https://favicons.githubusercontent.com/www.ure.es",
     "slug": "ure-es",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1911,
@@ -15,17 +15,19 @@
     "timeWeek": 1680,
     "timeMonth": 1844,
     "timeYear": 1911,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-18": 1
+    }
   },
   {
     "name": "Tienda",
     "url": "https://tienda.ure.es",
     "icon": "https://favicons.githubusercontent.com/tienda.ure.es",
     "slug": "tienda",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1172,
@@ -33,7 +35,9 @@
     "timeWeek": 840,
     "timeMonth": 1124,
     "timeYear": 1172,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-18": 1
+    }
   },
   {
     "name": "WebCluster",
@@ -59,11 +63,11 @@
     "icon": "https://favicons.githubusercontent.com/diplomas.ure.es",
     "slug": "gdure",
     "status": "up",
-    "uptime": "99.61%",
+    "uptime": "99.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.59%",
     "uptimeMonth": "99.60%",
-    "uptimeYear": "99.61%",
+    "uptimeYear": "99.62%",
     "time": 2205,
     "timeDay": 2277,
     "timeWeek": 1957,
